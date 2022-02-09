@@ -6,5 +6,5 @@ const CONFIGDATA = {
   buttonNo: "Không! KHÔNG ĐƯỢC ĐÂU <3.",
   titleModar: "Cảm ơn cậu vì đồng ý",
   descriptionModar:
-    'Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ </br> Cám ơn cậu đã đồng ý để cho tớ được che chở và bảo vệ cậu.Đối với tớ, cậu mãi là cô bé :)) </br> "Thích cậu nhiều đến mấy, cậu sẽ hiểu thôi. </br>  Tớ thích cậu nhiều đến mấy, cậu sẽ hiểu thôi " </br> Cre: HuyAio',
+    'Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ </br> Tớ chờ đợi lâu lắm rồi <3 </br> Cám ơn cậu đã đồng ý để cho tớ được che chở và bảo vệ cậu.Đối với tớ, cậu mãi là cô bé đáng yêu </br> "Thích cậu nhiều đến mấy, cậu sẽ hiểu thôi. </br>  Tớ thích cậu nhiều đến mấy, cậu sẽ hiểu thôi " </br> Cre: HuyAio',
 };
